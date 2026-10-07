@@ -11,7 +11,7 @@
         "LengthLabel": "Lengde",
         "PluginDescription": "Gir mulighet til å beskytte idSite med en hash i stedet for standard tall-ID",
         "ProtectTrackID": "Beskytt sporings-ID",
-        "SaltDescription": "Saltstreng for hasj av site-ID",
+        "SaltDescription": "Saltstreng for hash av site-ID",
         "SaltHelp": "Skriv inn en lang, tilfeldig streng på minst %1$d tegn. Eksempel: %2$s",
         "SaltLabel": "Salt",
         "SettingsDescription": "Innstillinger for ProtectTrackID. Hvis du er ny med dette tillegget, ANBEFALES DET STERKT at du leser dokumentasjonen på https://github.com/joubertredrat/Matomo-ProtectTrackID før du setter det opp."
